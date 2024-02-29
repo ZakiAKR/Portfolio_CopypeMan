@@ -1,5 +1,5 @@
 # Portfolio_CopypeMan
-![Title](Tutorial_Image.png)
+![Title](説明用素材画像/Tutorial_Image.png)
 ## ゲーム概要
 ### タイトル
 コピペマン
